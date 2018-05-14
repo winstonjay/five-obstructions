@@ -2,7 +2,7 @@
 This is a template for creativity and [lateral thinking](https://en.wikipedia.org/wiki/Lateral_thinking) which challenges yourself and others to approach things differently by imposing arbitrary constraints on work.
 
 ## How to
-Take a previously completed project/idea/program/thing and try to make it again but with this time with 5 obstructions placed on the creative process. You can generate these obstructions yourself or even, get a someone else to, or with the `five-obstuctions` script in this repository.
+Take a previously completed project/idea/program/thing and try to make it again but with this time with 5 obstructions placed on the creative process. You can generate these obstructions yourself, get a someone else to, or even with the `five-obstuctions` script in this repository.
 
 Alternatively why not challenge a friend with five obstructions for their project.
 

@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+# five-obstructions :
+# generate 5 obstructions from the source file. This is as about as basic as
+# possible, just to get the ball rolling.
+set -e
+
+FILE="obstructions/obstructions.txt"
+
+if [ ! -f $FILE ]
+then
+    echo "Resource file: $FILE not found."
+    exit
+fi
+
+cat $FILE | perl -MList::Util=shuffle -e 'print shuffle<STDIN>' | head -5

@@ -1,0 +1,241 @@
+Write all function names in English
+Write all function names in Spanish
+Write all function names in French
+Write all function names in Chinese
+Write all function names in Shakespearean English
+Write all function names in Backwards
+Write all function names in German
+Write all function names in Dutch
+Write all function names in Russian
+Write all function names in uppercase
+Write all function names in lowercase
+Write all function names in ascii codes seperated by underscores
+Write all function names in binary
+Write all function names in Olde English
+Write all function names in cockney rhyming slang
+Write all varible names in English
+Write all varible names in Spanish
+Write all varible names in French
+Write all varible names in Chinese
+Write all varible names in Shakespearean English
+Write all varible names in Backwards
+Write all varible names in German
+Write all varible names in Dutch
+Write all varible names in Russian
+Write all varible names in uppercase
+Write all varible names in lowercase
+Write all varible names in ascii codes seperated by underscores
+Write all varible names in binary
+Write all varible names in Olde English
+Write all varible names in cockney rhyming slang
+Write all user defiened varible and function names in English
+Write all user defiened varible and function names in Spanish
+Write all user defiened varible and function names in French
+Write all user defiened varible and function names in Chinese
+Write all user defiened varible and function names in Shakespearean English
+Write all user defiened varible and function names in Backwards
+Write all user defiened varible and function names in German
+Write all user defiened varible and function names in Dutch
+Write all user defiened varible and function names in Russian
+Write all user defiened varible and function names in uppercase
+Write all user defiened varible and function names in lowercase
+Write all user defiened varible and function names in ascii codes seperated by underscores
+Write all user defiened varible and function names in binary
+Write all user defiened varible and function names in Olde English
+Write all user defiened varible and function names in cockney rhyming slang
+Write all comments in English
+Write all comments in Spanish
+Write all comments in French
+Write all comments in Chinese
+Write all comments in Shakespearean English
+Write all comments in Backwards
+Write all comments in German
+Write all comments in Dutch
+Write all comments in Russian
+Write all comments in uppercase
+Write all comments in lowercase
+Write all comments in ascii codes seperated by underscores
+Write all comments in binary
+Write all comments in Olde English
+Write all comments in cockney rhyming slang
+Write all text in English
+Write all text in Spanish
+Write all text in French
+Write all text in Chinese
+Write all text in Shakespearean English
+Write all text in Backwards
+Write all text in German
+Write all text in Dutch
+Write all text in Russian
+Write all text in uppercase
+Write all text in lowercase
+Write all text in ascii codes seperated by underscores
+Write all text in binary
+Write all text in Olde English
+Write all text in cockney rhyming slang
+Write all numbers in English
+Write all numbers in Spanish
+Write all numbers in French
+Write all numbers in Chinese
+Write all numbers in Shakespearean English
+Write all numbers in Backwards
+Write all numbers in German
+Write all numbers in Dutch
+Write all numbers in Russian
+Write all numbers in uppercase
+Write all numbers in lowercase
+Write all numbers in ascii codes seperated by underscores
+Write all numbers in binary
+Write all numbers in Olde English
+Write all numbers in cockney rhyming slang
+Must use 'Active Object' concurency design pattern.
+Must use 'Balking' concurency design pattern.
+Must use 'Binding properties' concurency design pattern.
+Must use 'Blockchain' concurency design pattern.
+Must use 'Compute kernel' concurency design pattern.
+Must use 'Double-checked locking' concurency design pattern.
+Must use 'Event-based asynchronous' concurency design pattern.
+Must use 'Guarded suspension' concurency design pattern.
+Must use 'Join' concurency design pattern.
+Must use 'Lock' concurency design pattern.
+Must use 'Thread pool' concurency design pattern.
+Must use 'Monitor object' concurency design pattern.
+Must use 'Blackboard' behavioral design pattern.
+Must use 'Chain of responsibility' behavioral design pattern.
+Must use 'Command' behavioral design pattern.
+Must use 'Interpreter' behavioral design pattern.
+Must use 'Iterator' behavioral design pattern.
+Must use 'Mediator' behavioral design pattern.
+Must use 'Memento' behavioral design pattern.
+Must use 'Null object' behavioral design pattern.
+Must use 'Servant' behavioral design pattern.
+Must use 'Specification' behavioral design pattern.
+Must use 'State' behavioral design pattern.
+Must use 'Strategy' behavioral design pattern.
+Must use 'Template method' behavioral design pattern.
+Must use 'Visitor' behavioral design pattern.
+Must use 'Lazy initialization' creational design pattern.
+Must use 'Factory method' creational design pattern.
+Must use 'Dependency Injection' creational design pattern.
+Must use 'Builder' creational design pattern.
+Must use 'Abstract factory' creational design pattern.
+Must use 'Multiton' creational design pattern.
+Must use 'Object pool' creational design pattern.
+Must use 'Prototype' creational design pattern.
+Must use 'Singleton' creational design pattern.
+Must use 'Bridge' structural design pattern.
+Must use 'Wrapper' structural design pattern.
+Must use 'Composite' structural design pattern.
+Must use 'Decorator' structural design pattern.
+Must use 'Extension object' structural design pattern.
+Must use 'Facade' structural design pattern.
+Must use 'Flyweight' structural design pattern.
+Must use 'Marker' structural design pattern.
+Must use 'Module' structural design pattern.
+Cannot use any strings.
+Cannot use any characters.
+Cannot use any ints.
+Cannot use any floats.
+Cannot use any numbers.
+Cannot use any functions.
+Cannot use any loops.
+Cannot use any booleans.
+Cannot use any if statements.
+Cannot use any conditional logics.
+Cannot use any recursions.
+Cannot use any hashmaps.
+Cannot use any arrays.
+Cannot use any statments.
+Cannot use any builtins.
+Cannot use any alphabetic characters.
+Cannot use any hex characters.
+Cannot use any vowels.
+Must use the 'APL' programming language.
+Must use the 'BASIC' programming language.
+Must use the 'Forth' programming language.
+Must use the 'Lisp' programming language.
+Must use the 'Lua' programming language.
+Must use the 'Pascal' programming language.
+Must use the 'Perl' programming language.
+Must use the 'Python' programming language.
+Must use the 'Ruby' programming language.
+Must use the 'Erlang' programming language.
+Must use the 'Swift' programming language.
+Must use the 'Bash' programming language.
+Must use the 'F#' programming language.
+Must use the 'ELixir' programming language.
+Must use the 'Haskell' programming language.
+Must use the 'Ada' programming language.
+Must use the 'ALGOL' programming language.
+Must use the 'C' programming language.
+Must use the 'Clojure' programming language.
+Must use the 'Shell Script' programming language.
+Must use the 'C++' programming language.
+Must use the 'C#' programming language.
+Must use the 'SQL' programming language.
+Must use the 'COBOL' programming language.
+Must use the 'Fortran' programming language.
+Must use the 'Java' programming language.
+Must use the 'Objective-C' programming language.
+Must use the 'Smalltalk' programming language.
+Must use the 'Visual Basic' programming language.
+Must use the 'MATLAB' programming language.
+Must use the 'Occam' programming language.
+Must use the 'AppleScript' programming language.
+Must use the 'Awk' programming language.
+Must use the 'ColdFusion' programming language.
+Must use the 'PHP' programming language.
+Must use the 'Go' programming language.
+Must use the 'Rust' programming language.
+Must use the 'Assembly' programming language.
+Represent all numbers as hex.
+Represent all numbers as binary.
+Represent all numbers as octal.
+Represent all numbers as roman numerals.
+Represent all numbers as characters.
+Write again in exactly half the amount of code.
+Write again in 10 minutes.
+Write again in 10 lines.
+Write again in double the amount of code.
+Write again with a 500 word introduction.
+Write again with a 1000 word introduction.
+Write again with greater respect for your peers.
+Write again with pen and paper.
+Write again with a type writer.
+Write again on your mobile phone.
+Write again on the oldest computer you can find.
+Write again in a way a 10 year old might understand.
+Write again then explain it someone who wouldnt have understood it originally.
+redesign for mobile device.
+redesign for micro-controller device.
+redesign for interet of things device.
+redesign for web device.
+redesign for audio device.
+redesign for visual device.
+redesign for text based device.
+redesign for robotic device.
+Should clearly be influenced by hip-hop
+Should clearly be influenced by jazz
+Should clearly be influenced by classic rock
+Should clearly be influenced by heavy metal
+Should clearly be influenced by reggae
+Should clearly be influenced by punk rock
+Should clearly be influenced by country music
+Should clearly be influenced by electronic music
+Should clearly be influenced by soul
+Should clearly be influenced by funk
+Should clearly be influenced by spoken word
+Should clearly be influenced by post-modernism
+Should clearly be influenced by modernism
+Should clearly be influenced by classical archetecture
+Should clearly be influenced by baroque archetecture
+Should clearly be influenced by pop music
+Should clearly be influenced by Folk music
+Should clearly be influenced by Country music
+Should clearly be influenced by your favourite band
+Should clearly be influenced by your favourite music
+Should clearly be influenced by your favourite film
+Should clearly be influenced by your favourite tv show
+Should clearly be influenced by your favourite youtube channel
+Should clearly be influenced by facebook
+Should clearly be influenced by the internet
